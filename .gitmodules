@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "GAPR"]
 	path = GAPR
-	url = https://github.com/cran/GAPR
+	url = https://github.com/shuyyu/gapr
